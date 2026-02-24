@@ -1,0 +1,7 @@
+server:
+  port: 8940
+
+  h2:
+    path: /h2-console
+    username: sa
+    password:
